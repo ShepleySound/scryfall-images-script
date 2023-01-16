@@ -17,4 +17,6 @@ Running the script will create directories at `./imgs/small` and `./imgs/normal`
 
 Thanks to [Scryfall](https://scryfall.com/) for hosting such a robust source of _Magic_ data.
 
-Scryfall provides card data as part of the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy)
+Before using their data, please consult the [Scryfall API Documentation](https://scryfall.com/docs/api).
+
+Scryfall provides card data as part of the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy).
