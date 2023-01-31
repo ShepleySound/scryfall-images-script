@@ -5,7 +5,7 @@ A basic script that downloads all unique art images from the [Scryfall](https://
 For now, the following commands will run the script:
 
 ```bash
-npm install # intstalls Axios for simpler async handling
+npm install # installs Axios for simpler async handling
 npm run scrape
 ```
 
